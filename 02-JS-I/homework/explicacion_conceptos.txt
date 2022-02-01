@@ -1,0 +1,20 @@
+Explicacion de Conceptos
+
+- VARIABLES --> las variables comprende un elemento o valor dentro de nuestro codigo, son como documentos de identidad,
+estos definen que funcion van a cumplir dentro del codigo. Las funciones que nosotros podemos definir por cada variable, pueden ser numericas o letras.
+
+- STRING --> es un conjunto de letras que forman una palabra, para un computador a las letras se los denomina caracteres y la union de los mismos forma 
+un texto conocido comunmente en programacion como una cadena, el string se define dentro de unas comillas ya sean simples o dobles.
+
+- FUNCIONES(ARGUMENTOS,RETURN) --> las funciones nos permiten realizar una accion que se encuentre almacenada en la misma (por medio de corchetes), estas
+funciones pueden o no depender de un argumento, que conlleva tener una informacion extra para poder procesar dentro de dicha funcion, tal fuera el caso 
+que no lleve dicho argumento igual la funcion realizara las acciones que se le asignaron. Estas funciones si bien procesan una accion, pueden o no devolver 
+una informacion o resultados (dependiendo su uso), la funcion al tener su RETURN devuelve una un resultado que puede ser utilizado para otra accion en 
+otra parte del codigo que se quiere ejecutar.
+
+- DECLARACION IF --> esta declaracion esta asignada para dar una condicion y controlar el proceso que uno quiere realizar, determina la falsedad o veracidad
+de dicho proceso. Se asigna una condicion la cual se verifica y da un resultado. Su estructura de programacion esta dada por sus siglas en ingles (if), 
+la forma de escribirlo es IF(CONDICION){RESULTADO O PROCESO}.
+
+- VALORES BOOLEANOS(TRUE,FALSE) --> estos valores son conocidos como valores verdaderos o falsos, sus acronimos en ingles definidos por un TRUE o FALSE,
+estos valores tambien son conocidos como 0 y 1, apagado o encendido.

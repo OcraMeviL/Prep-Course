@@ -1,0 +1,20 @@
+Expliacion de conceptos - FOR_||_&&_! 
+
+Bucles
+
+For - es una instruccion que cumple la funcion de un bucle o conocido comunmente como un ciclo repetitivo, que tiene la funcion de repetir una accion o 
+actividad hasta que su sentencia sea falsa. Su bucle esta condiciondado por un inicio, condicion limitante y incremento.
+
+Su estructura:  for(inicio;condicion limitante;incremento) -- ej: for(var i=0;i<10;i++) --> la Variable i comienza en un valor igual a 0, limitando su 
+											    funcion cuando el valor de i alcanza un numero menor a 10
+											    y realiza un incremento de 1 dada por su operacion(++)...
+
+
+Operadores logicos AND(&&), OR(||), NOT(!)
+
+AND (&&) - este operador logico (y) es un accion que te permite realizar un verificacion de dos acciones que si o si deben ser cumplidas para que 
+	   la respuesta pueda ser realizada, caso contrario 
+OR (||) - este operador logico (o) nos permite realizar un accion de seleccion, donde la verificacion de sus acciones no todas deben ser cumplidas para 
+          que la respuesta pueda ser realizada, basta con que una pueda ser cumplida.
+NOT (!) - este operado logico (no) permitira negar o darle contrariedad a la accion o sentencia que se quiere ejecutar.																			
+
